@@ -1,0 +1,332 @@
+{
+  "items": [
+    {
+
+      "question": "Je serre à droite :",
+      "chemin": "lib/assets/images/1.png",
+      "options": [
+        {
+          "text": "A- avant de ralentir"
+        },
+        {
+          "text": "B- après avoir ralentir"
+        }
+      ],
+      "answers_index": 2,
+      "feedback": "Correct! Le ralentissement permet de maîtriser la trajectoire.",
+      "hint": ""
+    },
+    {
+
+      "question": "Certains régulateurs de vitesse aident au maintient des espaces de sécurité avant :",
+      "chemin": "lib/assets/images/2.png",
+      "options": [
+        {
+          "text": "A- oui"
+        },
+        {
+          "text": "B- Non"
+        }
+      ],
+      "answers_index": 1,
+      "feedback": "Correct! Si mon régulateur est équipé de cette fonctionnalité « aide au maintien des distances de sécurité », en le réglant à 90 km/h, le système va contrôler automatiquement la distance qui me sépare du véhicule qui me précède et ralentir automatiquement si besoin.",
+      "hint": ""
+    },
+    {
+
+      "question": "Conducteur du vahicule blanc : je reste en feu de croissement ",
+      "chemin": "lib/assets/images/4.png",
+      "options": [
+        {
+          "text": "A- Oui"
+        },
+        {
+          "text": "B- Non"
+        }
+      ],
+      "answers_index": 1,
+      "feedback": "Correct! Dans mes déplacements de nuit je dois être attentif à la route tout en respectant les autres\nusagers. J’aperçois les feux d’un véhicule circulant en face, donc je maintiens mes feux de croisement pour ne pas éblouir le conducteur et je porte mon regard vers l’accotement droit pour ne pas être ébloui.",
+      "hint": ""
+    },
+    {
+
+      "question": "Ce panneau met fin :",
+      "chemin": "lib/assets/images/5.png",
+      "options": [
+        {
+          "text": "A- aux limitations de vitesse"
+        },
+        {
+          "text": "B- à l'interdiction de passer"
+        },
+        {
+          "text": "C- à l'interdiction de stationner"
+        }
+      ],
+      "answers_index": 1,
+      "feedback": "Venant de traverser une zone où la vitesse était limitée à 70 km/h, je peux reprendre une\nallure réglementaire (80 ou 90 km/h selon mon statut de jeune conducteur ou non), en\nfonction des conditions de circulation, après ce panneau.",
+      "hint": ""
+    },
+    {
+
+      "question": "Le marquage au sol m'aide à évaluer l'espace de sécurité :",
+      "chemin": "lib/assets/images/6.png",
+      "options": [
+        {
+          "text": "A- Oui"
+        },
+        {
+          "text": "B- Non"
+        }
+      ],
+      "answers_index": 1,
+      "feedback": "Correct! Chaque trait séparant la chaussée de la bande d’arrêt d’urgence mesure 38 m, longueur égale à la distance parcourue en 1 seconde à 130 km/h.",
+      "hint": ""
+    },
+    {
+
+      "question": "Sur un véhicule à boite automatique j'appuie sur le frein pour retirer la position P(Park)",
+      "chemin": "lib/assets/images/7.png",
+      "options": [
+        {
+          "text": "A- Oui"
+        },
+        {
+          "text": "B- Non"
+        }
+      ],
+      "answers_index": 1,
+      "feedback": "La position P de la boîte automatique permet de retenir le véhicule en stationnement. Un dispositif de sécurité empêche d’enlever ce frein automatique si je n’appuie pas sur la pédale de frein.",
+      "hint": ""
+    },
+    {
+
+      "question": "Si je n'obéis pas à cet agent qui me fait signe de m'arrêter, j'encours: une perte de 6 points",
+      "chemin": "lib/assets/images/8.png",
+      "options": [
+        {
+          "text": "A- Non"
+        },
+        {
+          "text": "B- Oui"
+        }
+      ],
+      "answers_index": 2,
+      "feedback": "Si je ne m’arrête pas, il s’agit d’un refus d’obtempérer. L’amende maximale est de 3750 euros et je risque un retrait de 6 points sur mon permis de conduire. J’encours même une peine d’emprisonnement de 3 mois.",
+      "hint": ""
+    },
+    {
+
+      "question": "Unjeune conducteur est capable de lire tous ces indices en même temps :",
+      "chemin": "lib/assets/images/9.png",
+      "options": [
+        {
+          "text": "A- Oui"
+        },
+        {
+          "text": "B- Non"
+        }
+      ],
+      "answers_index": 2,
+      "feedback": "Mon regard et mon cerveau ne sont pas capables de traiter toutes les informations au même moment. L’expérience acquise au fil des kilomètres parcourus et des situations rencontrées m’aidera à porter mon attention sur les indices les plus pertinents.",
+      "hint": ""
+    },
+    {
+
+      "question": "Malgré la faible vitesse, je continue à regarder autour de moi :",
+      "chemin": "lib/assets/images/10.png",
+      "options": [
+        {
+          "text": "A- Oui"
+        },
+        {
+          "text": "B- Non"
+        }
+      ],
+      "answers_index": 1,
+      "feedback": "Je dois en permanence être attentif à la route, car des motocyclistes peuvent remonter les files lors des ralentissements. La circulation inter-files est expérimentée depuis le 1er février 2016 dans 11 départements.",
+      "hint": ""
+    },
+    {
+
+      "question": "Je tourne à droite à l'intersection, je :",
+      "chemin": "lib/assets/images/11.png",
+      "options": [
+        {
+          "text": "A- dépasse le cycliste"
+        },
+        {
+          "text": "B- lui fais signe de passer"
+        }
+      ],
+      "answers_index": 2,
+      "feedback": "Correct! Chaque trait séparant la chaussée de la bande d’arrêt d’urgence mesure 38 m, longueur\négale à la distance parcourue en 1 seconde à 130 km/h.",
+      "hint": ""
+    },
+    {
+
+      "question": "Avant d'appeler les secours, je vérifie si la victime respire",
+      "chemin": "lib/assets/images/12.png",
+      "options": [
+        {
+          "text": "A- Oui"
+        },
+        {
+          "text": "B- Non"
+        }
+      ],
+      "answers_index": 1,
+      "feedback": "L’ordre d’action en cas d’un accident est : protéger, alerter puis secourir. Dans la phase d’alerte, je dois donner des informations précises sur l’état de la victime aux équipes de secours afin de leur permettre d’intervenir le plus efficacement possible.",
+      "hint": ""
+    },
+    {
+
+      "question": "Je surveille particulièrement :",
+      "chemin": "lib/assets/images/13.png",
+      "options": [
+        {
+          "text": "A- La zone A"
+        },
+        {
+          "text": "B- La zone B"
+        }
+      ],
+      "answers_index": 2,
+      "feedback": "Des passagers sortant du bus peuvent traverser la chaussée au niveau de la zone B. En plaçant mon pied devant le frein je réduis mon temps de réaction si je dois m’arrêter pour laisser passer un piéton.",
+      "hint": ""
+    },
+    {
+
+      "question": "Mon véhicule est équipé de l'appel d'urgence (eCall) :",
+      "chemin": "lib/assets/images/14.png",
+      "options": [
+        {
+          "text": "A- Oui"
+        },
+        {
+          "text": "B- Non"
+        }
+      ],
+      "answers_index": 1,
+      "feedback": "Correct! Chaque trait séparant la chaussée de la bande d’arrêt d’urgence mesure 38 m, longueur\négale à la distance parcourue en 1 seconde à 130 km/h.",
+      "hint": ""
+    },
+    {
+
+      "question": "Le marquage au sol m'aide à évaluer l'espace de sécurité :",
+      "chemin": "lib/assets/images/6.png",
+      "options": [
+        {
+          "text": "A- Oui"
+        },
+        {
+          "text": "B- Non"
+        }
+      ],
+      "answers_index": 1,
+      "feedback": "Si mon véhicule est équipé du système ecall, en cas de choc important, un appel téléphonique alerte les équipes de secours, en géolocalisant l’accident. Ce système permet de réduire le délai d’intervention, particulièrement en rase campagne, sans témoins.",
+      "hint": ""
+    },
+    {
+
+      "question": "L'intervalle de sécurité est suffisant à cette allure :",
+      "chemin": "lib/assets/images/15.png",
+      "options": [
+        {
+          "text": "A- Oui"
+        },
+        {
+          "text": "B- Non"
+        }
+      ],
+      "answers_index": 2,
+      "feedback": "La distance de sécurité minimale à respecter doit être équivalente à la distance parcourue en deux secondes, soit le double du temps de réaction moyen. Je ne peux pas signaler une manœuvre de dépassement",
+      "hint": ""
+    },
+    {
+
+      "question": "J'ai le droit de dépasser le deux-roues :",
+      "chemin": "lib/assets/images/16.png",
+      "options": [
+        {
+          "text": "A- Oui"
+        },
+        {
+          "text": "B- Non"
+        }
+      ],
+      "answers_index": 1,
+      "feedback": "La réglementation ne m’interdit pas de dépasser. Cependant le deux-roues risque d’être déstabilisé en passant sur les rails, il peut faire un écart de trajectoire. De plus il est préférable de franchir avec prudence les passages à niveaux. J’ai le temps de dépasser plus tard.",
+      "hint": ""
+    },
+    {
+
+      "question": "Lors de croissements la nuit, je m'oblige à diriger le regard vers la zone :",
+      "chemin": "lib/assets/images/17.png",
+      "options": [
+        {
+          "text": "A- Znoe A"
+        },
+        {
+          "text": "B- Zone B"
+        }
+      ],
+      "answers_index": 2,
+      "feedback": "Porter son regard sur la droite permet d’être moins ébloui lors d’un croisement et facilite la tenue de la trajectoire.",
+      "hint": ""
+    },
+    {
+
+      "question": "Le champ visuel d'un conducteur est d'environ 180 dégré à l'arrêt.",
+      "chemin": "lib/assets/images/18.png",
+      "options": [
+        {
+          "text": "A- Oui"
+        },
+        {
+          "text": "B- Non"
+        }
+      ],
+      "answers_index": 1,
+      "feedback": "Plus je circule vite, plus ma vision est « en tunnel ». Il faut donc en permanence balayer du regard mon environnement et contrôler régulièrement les rétroviseurs pour anticiper les événements, par exemple l’arrivée d’un motocycliste peu visible.",
+      "hint": ""
+    },
+    {
+
+      "question": "L'indice le plus inportant est le :",
+      "chemin": "lib/assets/images/19.png",
+      "options": [
+        {
+          "text": "A- marquage au sol"
+        },
+        {
+          "text": "B- regard du conducteur"
+        }
+      ],
+      "answers_index": 2,
+      "feedback": "Je dois vérifier que le conducteur m’a vu. Au-delà de la règle, je dois m’assurer que je suis visible et je dois anticiper le comportement des autres conducteurs.",
+      "hint": ""
+    },
+    {
+
+      "question": "Pour réduire ma consommation, je retire le pied de l'accélérateur :",
+      "chemin": "lib/assets/images/19.png",
+      "options": [
+        {
+          "text": "A- Oui"
+        },
+        {
+          "text": "B- Non"
+        }
+      ],
+      "answers_index": 1,
+      "feedback": "JLe feu est rouge, en cessant d’accélérer, mon véhicule va ralentir peu à peu, et je n’ai pas besoin de rétrograder. Si je rétrograde, je vais augmenter le régime du moteur, et donc ma consommation de carburant.",
+      "hint": ""
+    }
+  ],
+  "showResults": true,
+  "passingScore": 75,
+  "feedbackMessage": "Félicitations, vous avez réussi le test de préparation au permis de conduire !",
+  "failureMessage": "Vous n'avez pas réussi le test pour le moment. Continuez à pratiquer et à réviser pour améliorer vos chances de réussite."
+
+}
